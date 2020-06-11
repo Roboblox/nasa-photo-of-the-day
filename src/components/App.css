@@ -1,4 +1,4 @@
-html {
+body {
   background-color: indigo;
 }
 .App {
@@ -42,6 +42,5 @@ html {
 span {
   display: flex;
   justify-content: center;
-  border: 3px solid greenyellow;
   width: 100%;
 }
